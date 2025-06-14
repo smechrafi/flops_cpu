@@ -9,7 +9,7 @@ def estimate_flops(n=100_000_000):
 
     start = time.time()
 
-    # Une opération FLOP ici : addition
+# opération flop : addition a et b 
     c = a + b
 
     end = time.time()
